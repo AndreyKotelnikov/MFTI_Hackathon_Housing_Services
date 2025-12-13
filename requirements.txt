@@ -1,0 +1,6 @@
+pandas==2.3.3
+pyarrow==17.0.0
+ipykernel
+scikit_learn==1.6.1
+torch==2.6.0
+torch_geometric-2.6.1
