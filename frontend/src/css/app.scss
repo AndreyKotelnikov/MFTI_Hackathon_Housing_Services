@@ -1,0 +1,20 @@
+body {
+  color: $dark;
+  background-color: $light;
+  // font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.text-weight-semibold {
+  font-weight: 600;
+}
+
+a {
+  color: var(--q-color-primary);
+}
+
+.q-field--disabled .q-field__inner {
+  background-color: #E8E8E8;
+  opacity: 0.5;
+}
