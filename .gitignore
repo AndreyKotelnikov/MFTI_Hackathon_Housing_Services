@@ -207,4 +207,6 @@ marimo/_lsp/
 __marimo__/
 
 *.csv
+*.pkl
+*.parquet
 .DS_Store
