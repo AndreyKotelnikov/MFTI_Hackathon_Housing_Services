@@ -75,7 +75,7 @@ const initChart = () => {
       type: 'graph',
       layout: 'force',
       // layout: 'none',
-      draggable: true,
+      draggable: false,
       data: [],
       links: [],
       categories: categories,
@@ -111,9 +111,9 @@ const initChart = () => {
       
       // Силы для звездообразной структуры
       force: {
-        repulsion: 70,          // Увеличиваем отталкивание
-        gravity: 0.1,            // Слабое притяжение к центру
-        edgeLength: 50,         // Фиксированная длина связей
+        repulsion: 170,          // Увеличиваем отталкивание
+        gravity: 0.01,            // Слабое притяжение к центру
+        // edgeLength: 50,         // Фиксированная длина связей
         layoutAnimation: true,   // Анимация притяжения
       },
       

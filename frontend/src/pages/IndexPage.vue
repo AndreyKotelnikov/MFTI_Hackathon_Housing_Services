@@ -11,19 +11,19 @@ const totalPagesCount = ref<number>(1)
 
 const researches = ref<ResearchListItem[]>([
   {
-    id: 'graph_10к',
-    title: "Визуализация на 10к",
-    created_at: '12.12.2025',
+    id: 'graph_full',
+    title: "Полная модель переходов пользователей",
+    created_at: '18.12.2025',
   },
   {
-    id: 'graph_100к',
-    title: "Визуализация на 100к",
-    created_at: '12.12.2025',
+    id: 'graph_main',
+    title: "Популярные разделы",
+    created_at: '20.12.2025',
   },
   {
-    id: 'graph_1000к',
-    title: "Визуализация на 1кк",
-    created_at: '12.12.2025',
+    id: 'graph_main',
+    title: "Точки наибольшей утечки",
+    created_at: '20.12.2025',
   },
 ])
 
@@ -33,23 +33,70 @@ onMounted(() => {
 
 </script>
 <template>
-  <q-page class="content-area flex column q-mx-auto">
-    <div class="relative-position flex column col-grow">
-      <q-linear-progress v-if="isLoading || isProcessing" indeterminate color="primary" />
+  <q-page class="content-area q-pa-md flex justify-center">
+    <div class="page-wrapper full-width">
 
-      <div class="research-items q-mt-md" :class="{ 'loading-blur': isLoading }">
-        <ResearchItem
-          v-for="(research, index) in researches"
-          :key="index"
-          :research="research"
-          :disabled="isProcessing"
-        ></ResearchItem>
-      </div>
-        <q-pagination v-model="currentPage"
-                      :max="totalPagesCount"
-                      size="md"
-                      direction-links
-                      boundary-links />
+      <!-- Лоадер -->
+      <q-linear-progress
+        v-if="isLoading || isProcessing"
+        indeterminate
+        color="primary"
+        class="q-mb-md"
+      />
+
+      <!-- Контент -->
+      <q-card flat bordered class="q-pa-md">
+
+        <q-card-section class="q-pb-md">
+          <div class="text-h4 text-weight-medium">
+            Прогноз оттока клиентов
+          </div>
+          <div class="text-subtitle2 text-grey-7">
+            Графовая модель
+          </div>
+        </q-card-section>
+
+        <q-card-section class="q-pa-none">
+          <div
+            class="research-items"
+            :class="{ 'loading-blur': isLoading }"
+          >
+            <ResearchItem
+              v-for="(research, index) in researches"
+              :key="index"
+              :research="research"
+              :disabled="isProcessing"
+              class="q-mb-sm"
+            />
+          </div>
+        </q-card-section>
+
+        <!-- Пагинация -->
+        <q-separator class="q-my-md" />
+
+        <q-card-actions align="center">
+          <q-pagination
+            v-model="currentPage"
+            :max="totalPagesCount"
+            direction-links
+            boundary-links
+            size="md"
+          />
+        </q-card-actions>
+
+      </q-card>
     </div>
   </q-page>
 </template>
+
+<style lang="scss">
+.page-wrapper {
+  max-width: 900px;
+}
+
+.loading-blur {
+  filter: blur(2px);
+  pointer-events: none;
+  opacity: 0.6;
+}
+</style>

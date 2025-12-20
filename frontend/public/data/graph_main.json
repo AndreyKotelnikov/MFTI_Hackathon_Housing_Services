@@ -1,0 +1,3181 @@
+{
+  "nodes": [
+    {
+      "id": "0072f89b60d46ef6f2094949d8831f13",
+      "name": "Просмотр уведомления",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 28.808420326520853,
+      "sessions_count": 74914,
+      "churn_rate": 0.0873386945951,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "02b207cc24a78c1942161bafc72fe532",
+      "name": "Переход в раздел 'Опросы и собрания собственников'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 28.40570735406799,
+      "sessions_count": 71489,
+      "churn_rate": 0.080449527204317,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "061da77ad7d449a342174810fbf72350",
+      "name": "Раскрытие вкладки 'Архив'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.00070548257948,
+      "sessions_count": 6,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "08c8cb5c424e980373da49f294448547",
+      "name": "Опровержение выполнения заявки",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.00011758042991,
+      "sessions_count": 1,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "0ab7553a46130fe3b64fa66ae66e6ad1",
+      "name": "Переход в раздел 'Приборы учета'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 23.786089843206497,
+      "sessions_count": 32200,
+      "churn_rate": 0.0676359593950209,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "0bcd42c9cba99c24662d526b8917a4b2",
+      "name": "Переход к ознакомлению с документом в Базе знаний",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.004820797626444,
+      "sessions_count": 41,
+      "churn_rate": 0.0232558139534883,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "137091633a6334ce94ced79cab6ec771",
+      "name": "Выбор умного решения",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.281017227492654,
+      "sessions_count": 2390,
+      "churn_rate": 0.0596098265895953,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "14fe2f779c0b5dfdd3cbda1fe29d7588",
+      "name": "Открытие подробного описания услуги партнера",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.002116447738437,
+      "sessions_count": 18,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "1677480ced72b9f85300ee9d405cbf6f",
+      "name": "Поиск городского сервиса",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.01728432319725,
+      "sessions_count": 147,
+      "churn_rate": 0.0109529025191675,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "16f068808fcfe46716f05762cf2260ca",
+      "name": "Выбор темы через теги",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.67961488489856,
+      "sessions_count": 5780,
+      "churn_rate": 0.0132459564974902,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "1802f521f49cb888d4d375c1f77a5947",
+      "name": "Переход к правилам начисления баллов",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.004585636766617,
+      "sessions_count": 39,
+      "churn_rate": 0.1025641025641025,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "1899c3dd97f8bfeaa614f527221db7ea",
+      "name": "Применение промокода",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.000940643439307,
+      "sessions_count": 8,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "18b0d595350748c3fd82491de6631219",
+      "name": "Новое ОСС",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.570029924219412,
+      "sessions_count": 4848,
+      "churn_rate": 0.061144234428517,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "1b5d0ffe2f0f396585db620e98e433c7",
+      "name": "Переход к открытию двери",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.00011758042991,
+      "sessions_count": 1,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "1b6eb33100056c59571a4ba1e4899851",
+      "name": "Выбор услуги партнёров",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.017049162337422,
+      "sessions_count": 145,
+      "churn_rate": 0.0522875816993464,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "206871cf6dcf4010d81b449136952c89",
+      "name": "Переход в справку по баллам",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.094652246080162,
+      "sessions_count": 805,
+      "churn_rate": 0.0373493975903614,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "20df56ae4f1871b56dc7098fc2285c66",
+      "name": "Переход к предварительному просмотру ОСС",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.0044680563367,
+      "sessions_count": 38,
+      "churn_rate": 0.0212765957446808,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "24c3c43335a78db3be70c90243f70c11",
+      "name": "Переход к разделу 'Промокод'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.034451065964582,
+      "sessions_count": 293,
+      "churn_rate": 0.0392156862745098,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "307dcfd5d2529448f617e83d687ba89f",
+      "name": "Отправка заявки",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 22.68212718675104,
+      "sessions_count": 22811,
+      "churn_rate": 0.0407854536825556,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "308f4c947262ff784ce8424a0bfbbabc",
+      "name": "Удаление объявления",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.001175804299134,
+      "sessions_count": 10,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "30f1948bc1a8ad1026a7538e357c2c99",
+      "name": "Переход к открытию шлагбаума",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.00011758042991,
+      "sessions_count": 1,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "33102e94f3eaaddb4adfef79dba3406e",
+      "name": "Переход в раздел 'Мои соседи'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.000235160859827,
+      "sessions_count": 2,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "336eedff4bd7b6eaea9e6e67438a04e5",
+      "name": "Переход в раздел 'Объявления'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.743343477911537,
+      "sessions_count": 6322,
+      "churn_rate": 0.0019708914493632,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "33ce9776b7702c8b318d6efe53df4255",
+      "name": "Переход к поощрениям",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.297360907250596,
+      "sessions_count": 2529,
+      "churn_rate": 0.1254695717505634,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "38295c4cb820734391afed2c6eab0a22",
+      "name": "Выбор через теги",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 22.590296870988794,
+      "sessions_count": 22030,
+      "churn_rate": 0.008038540567557,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "3a5b6f51c14ce14db3f078c24bff99d7",
+      "name": "Переход в раздел 'Электронный консьерж'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.336750351271533,
+      "sessions_count": 2864,
+      "churn_rate": 0.0331844288449266,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "3adf668b7fc5065977e00d1b3bfbb31e",
+      "name": "Выбор способа подачи заявки",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.24198052476146,
+      "sessions_count": 2058,
+      "churn_rate": 0.0895036615134255,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "3fc108d096d970b55c4abc7ff5bddc10",
+      "name": "Создание нового объявления через кнопку",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.01634367975794,
+      "sessions_count": 139,
+      "churn_rate": 0.032051282051282,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "45a99c67b0b2347be90beb561a12691e",
+      "name": "Переход к списку черновиков",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.009524014822972,
+      "sessions_count": 81,
+      "churn_rate": 0.0105263157894736,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "461da4846caa27d3edd49b7f4d597395",
+      "name": "Отмена отзыва доступа",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.00035274128974,
+      "sessions_count": 3,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "4b5c3e93b63c6dddb1391e5058a7d97e",
+      "name": "Переход к умным решениям",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.180250799057006,
+      "sessions_count": 1533,
+      "churn_rate": 0.0193992490613266,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "4c17a6be136d0c5a75fd2b1029f7715a",
+      "name": "Выбор услуги городских сервисов",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.099590624136518,
+      "sessions_count": 847,
+      "churn_rate": 0.088088088088088,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "4d46bbf8fa2da317c338b13d29036a91",
+      "name": "Сохранение черновика",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.00035274128974,
+      "sessions_count": 3,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "500eccd282f81b78cf2a947629353fb1",
+      "name": "Открытие описания варианта умного решения",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.244096972499896,
+      "sessions_count": 2076,
+      "churn_rate": 0.0443349753694581,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "51a0cccf48b98172c3231c2fef7fae21",
+      "name": "Переход в раздел 'База знаний'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.200239472142258,
+      "sessions_count": 1703,
+      "churn_rate": 0.0485807860262008,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "5281fb229131fa372bd15589fed81bc7",
+      "name": "Переход в раздел 'Заявки'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 30.75614014803376,
+      "sessions_count": 91479,
+      "churn_rate": 0.0126374841654434,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "5519a4874454437bc57292827d8d60bf",
+      "name": "Переход к настройке и описанию ОСС",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.048678297984083,
+      "sessions_count": 414,
+      "churn_rate": 0.0057034220532319,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "56b2a96f6086423351ef3ef7f6bad776",
+      "name": "Переход к истории начисления баллов",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.191773681188504,
+      "sessions_count": 1631,
+      "churn_rate": 0.0116550116550116,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "56e2c906841b04ae432f9c4c91b8a20b",
+      "name": "Отказ гостя от предоставленного гостевого доступа",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.00035274128974,
+      "sessions_count": 3,
+      "churn_rate": 0.3333333333333333,
+      "itemStyle": {
+        "color": "#a020f0"
+      }
+    },
+    {
+      "id": "57ad6273012b6e957885db5347c61ce3",
+      "name": "Вызов поиска",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 21.439654783857776,
+      "sessions_count": 12244,
+      "churn_rate": 0.0050913447139862,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "57fa3d494c82a1758bf4613a1f951e83",
+      "name": "Публикация нового объявления",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.00870095181358,
+      "sessions_count": 74,
+      "churn_rate": 0.0374331550802139,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "5824093ca7ab81ddadcbbead248b3e90",
+      "name": "Переход на портал 'Миллион призов'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.01916561007586,
+      "sessions_count": 163,
+      "churn_rate": 0.1463414634146341,
+      "itemStyle": {
+        "color": "#a020f0"
+      }
+    },
+    {
+      "id": "5a1dcce1d1cd9fa202f2db1394377d35",
+      "name": "Звонок в диспетчерскую",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.00011758042991,
+      "sessions_count": 1,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "5d25ba67e2bc07adddc59f7a0e0baacd",
+      "name": "Переход в раздел 'Услуги'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 21.094438641632486,
+      "sessions_count": 9308,
+      "churn_rate": 0.0103523790563408,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "5d969627f432fb2b90f2b31cede6b75c",
+      "name": "Открытие раздела 'Объявления соседей'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.239981657452933,
+      "sessions_count": 2041,
+      "churn_rate": 0.0029498525073746,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "5efa68fc2828c1a2d1eb5e274e46e762",
+      "name": "Активация промокода",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.028454464039005,
+      "sessions_count": 242,
+      "churn_rate": 0.0657534246575342,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "657a3d4b379d0ca181d51bff7a734dca",
+      "name": "Переход в раздел 'Мой транспорт'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 21.45188314856875,
+      "sessions_count": 12348,
+      "churn_rate": 0.043605097497313,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "65c812b1867171673ea71b8fd49576bb",
+      "name": "Получение промокода",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.002704349888006,
+      "sessions_count": 23,
+      "churn_rate": 0.1428571428571428,
+      "itemStyle": {
+        "color": "#a020f0"
+      }
+    },
+    {
+      "id": "6c9428e1bc4d054722cca065faa2f4d7",
+      "name": "Выбор объекта заявки",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 21.159695780234337,
+      "sessions_count": 9863,
+      "churn_rate": 0.0034220792553555,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "7191fb66d8d0febc6286fef10168d464",
+      "name": "Выбор уровня доступа",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.000587902149565,
+      "sessions_count": 5,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "71d2b02e9dddd7579add5e6fbfdd9948",
+      "name": "Раскрытие вкладки 'Мои'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.000470321719654,
+      "sessions_count": 4,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "73bf830e1586433463d3980cd6b6ab3f",
+      "name": "Открытие раздела 'Мои объявления'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.103353197893743,
+      "sessions_count": 879,
+      "churn_rate": 0.0225321888412017,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "75ae1ce75e93716c27e8581d81b818d4",
+      "name": "Переход в раздел 'Мои адреса'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.035979611553454,
+      "sessions_count": 306,
+      "churn_rate": 0.0868263473053892,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "79c8df164467ccfdd2935ed3a0908bff",
+      "name": "Переход к проверке баллов ЭД",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.01269868643063,
+      "sessions_count": 108,
+      "churn_rate": 0.0353982300884955,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "7abfa6d37d4e9acc8ced91aa7cec02d6",
+      "name": "Внесение контактных данных и отправка заявки на услугу партнера",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.00070548257948,
+      "sessions_count": 6,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "7d680c15d436d10d4ad4e5afa795efe1",
+      "name": "Объявления",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.746988471238847,
+      "sessions_count": 6353,
+      "churn_rate": 0.0221202003338898,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "810279bb201947c8bf03ef45799a9df0",
+      "name": "Выбор тематики заявки",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.768270529053144,
+      "sessions_count": 6534,
+      "churn_rate": 0.0178610324548028,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "81fc1afde23687b0bf1f414f2281b130",
+      "name": "Просьба убрать ТС",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.049383780563563,
+      "sessions_count": 420,
+      "churn_rate": 0.1313320825515947,
+      "itemStyle": {
+        "color": "#a020f0"
+      }
+    },
+    {
+      "id": "875e50d28d26088a760866c1125ff124",
+      "name": "Еще",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 80.0,
+      "sessions_count": 510289,
+      "churn_rate": 0.0537144340245096,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "8b0ccaad7865fdd0bf88d15d2ec13a6e",
+      "name": "Переход к просмотру заявки",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.000823063009392,
+      "sessions_count": 7,
+      "churn_rate": 0.05,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "91e6f6dfdf0013f411f185f5caff9276",
+      "name": "Отправка ОСС на проверку",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.000587902149565,
+      "sessions_count": 5,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "925ab0b036d8297495c3a3e024bfcbcc",
+      "name": "Открытие описания категории умного решения",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.122401227539687,
+      "sessions_count": 1041,
+      "churn_rate": 0.0674740484429065,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "939f2eae14159a422d6b7e444da6c073",
+      "name": "Выбор актуальной темы",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 21.47974971045819,
+      "sessions_count": 12585,
+      "churn_rate": 0.0121400148377959,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "946f5be9030a27157b3d9085c4ed7418",
+      "name": "Отмена создания нового ОСС",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.02104689695447,
+      "sessions_count": 179,
+      "churn_rate": 0.0264550264550264,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "9d2c3fb7b66bd8334d5fe6b5eafc0293",
+      "name": "Выбор категории заявки",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 21.05293274987311,
+      "sessions_count": 8955,
+      "churn_rate": 0.0079731915877051,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "a4c5506afae326d21a95f5447b2064d3",
+      "name": "Согласие с процессом проведения ОСС",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.064669236452286,
+      "sessions_count": 550,
+      "churn_rate": 0.0016366612111292,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "a5b05e649ffbafa180d0275d49428358",
+      "name": "Гостевой доступ",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.001998867308526,
+      "sessions_count": 17,
+      "churn_rate": 0.0185185185185185,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "a8e54aef94104fc6264227371ef0e4ff",
+      "name": "Приглашение для гостя",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.000470321719654,
+      "sessions_count": 4,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "a8ead479dfa626bbe9a3295f74fb9636",
+      "name": "Отмена удаления вопроса",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.00011758042991,
+      "sessions_count": 1,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "aa0f283c09d7018791bda6561a5b4280",
+      "name": "Переход в справку про гостевой доступ",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.000470321719654,
+      "sessions_count": 4,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "ac398d9f0ba05d231b9d183feb595b12",
+      "name": "Новая заявка",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 25.922055933010512,
+      "sessions_count": 50366,
+      "churn_rate": 0.0080454014354865,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "ae0f2988953fab2dce43046fd17546b4",
+      "name": "Переход к подаче заявки на услугу партнера",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.007407567084535,
+      "sessions_count": 63,
+      "churn_rate": 0.0657894736842105,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "b0af5b926c05544c79e497f6b54fe815",
+      "name": "Заявки",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.00141096515896,
+      "sessions_count": 12,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "b311fed0d9427b0a668db103a2e26ee5",
+      "name": "Раскрытие вкладки 'Соседей'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.000470321719654,
+      "sessions_count": 4,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "b4eb2f5d1c5bbaa4d93793b0bea2182b",
+      "name": "Переход к информации о квартире",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.00011758042991,
+      "sessions_count": 1,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "b566d2fae8ba724808c7e109eb8db193",
+      "name": "Возврат на предыдущий этап",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.044680563367034,
+      "sessions_count": 380,
+      "churn_rate": 0.0034482758620689,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "b76d318883357c73a6c50e24e8538bae",
+      "name": "Переход к обращениям в УО",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.00011758042991,
+      "sessions_count": 1,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "name": "Связаться с владельцем ТС",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.45103852914721,
+      "sessions_count": 3836,
+      "churn_rate": 0.1114376683810923,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "bc507eed0b3cb2a941ced1557f3cf52e",
+      "name": "Переход в раздел 'Техподдержка'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.292892850913894,
+      "sessions_count": 2491,
+      "churn_rate": 0.0253300035676061,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "bd9fe039ee5feddd26bae2cb7883ea56",
+      "name": "Переход к активным гостевым доступам после завершения создания нового",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.00035274128974,
+      "sessions_count": 3,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "bdd3a6156ed90c6ee409bd5d7c12109e",
+      "name": "Выбор категории умного решения",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.06878455149925,
+      "sessions_count": 585,
+      "churn_rate": 0.0184940554821664,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "bfce1d05b8edca517c869a73ba65f0fe",
+      "name": "Переход в раздел 'Профиль'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 21.592156601455255,
+      "sessions_count": 13541,
+      "churn_rate": 0.0621126291236254,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "bfe7ca7487a32228ae4b59f937b2ab6a",
+      "name": "Переход к услугам партнеров",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.050206843572955,
+      "sessions_count": 427,
+      "churn_rate": 0.0268456375838926,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "c31baa1a58afa3f9870b02fc77a1ba45",
+      "name": "Новый адрес",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.000235160859827,
+      "sessions_count": 2,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "c3617d19147db0f2c720ae56324619a3",
+      "name": "Переход в раздел 'Мои платежи'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 23.316473606132995,
+      "sessions_count": 28206,
+      "churn_rate": 0.0429024186822352,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "c75aa3fa536a90aa1ca1ebcdc42b1da3",
+      "name": "Добавление нового адреса",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.00011758042991,
+      "sessions_count": 1,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "c8ca07e157eb4a2fd812cb31bd93d9c5",
+      "name": "Выбор темы в поиске",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.601894220725903,
+      "sessions_count": 5119,
+      "churn_rate": 0.0159591971043106,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "c972daf1b8f2942278a3f21be6347380",
+      "name": "Распространение промокода",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.0905369310332,
+      "sessions_count": 770,
+      "churn_rate": 0.1158469945355191,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "c9fb0115087661f115b7732e0b6dcf38",
+      "name": "Переход в раздел 'Мои баллы'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 21.18944362900239,
+      "sessions_count": 10116,
+      "churn_rate": 0.0034036116100973,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "ca169e01881cc0e99889fe10feef5412",
+      "name": "Техподдержка",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.000235160859827,
+      "sessions_count": 2,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "cac1e33e37247f9836c2a08c6cfc6a2c",
+      "name": "Отмена подачи заявки на подключение умного решения",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.00364499332731,
+      "sessions_count": 31,
+      "churn_rate": 0.03125,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "cba7d02b3d23d23bf50494bb00915a03",
+      "name": "Переход в раздел 'Настройки уведомлений'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.121460584100383,
+      "sessions_count": 1033,
+      "churn_rate": 0.0555050045495905,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "cc371a551e51bfd9ecf88fb117f19012",
+      "name": "Возврат на предыдущий этап",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 23.36044868692055,
+      "sessions_count": 28580,
+      "churn_rate": 0.0157339576567731,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "d1938771e1ffd4add56fac6f43501e7c",
+      "name": "Переход к предоставлению доступа через кнопку",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.000470321719654,
+      "sessions_count": 4,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "d619612cd51d16e03997dd4a2a06b502",
+      "name": "Переход к согласию о доступности персональных данных",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.02610285544074,
+      "sessions_count": 222,
+      "churn_rate": 0.018450184501845,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "e224343a16d132c18efced9f8fe4ff9a",
+      "name": "Раскрытие вкладки 'Все активные'",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.001528545588872,
+      "sessions_count": 13,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "e9c334108c17d0d6014b73f196b775f4",
+      "name": "Выбор квартиры",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 21.638248129981246,
+      "sessions_count": 13933,
+      "churn_rate": 0.0124575817110198,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "eb4d9bfbb3f89806b7527eeeeef77c9f",
+      "name": "Отправка заявки на подключение умного решения",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.015285455888723,
+      "sessions_count": 130,
+      "churn_rate": 0.0201612903225806,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "ed5c27f6d16e1b7e9bc08a5a7c6a5491",
+      "name": "Мои баллы",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 21.187209600834038,
+      "sessions_count": 10097,
+      "churn_rate": 0.0253607658236891,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "eda36cdf54d5d75be6c4787845fa5af9",
+      "name": "Отправка сообщения в поддержку",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.00011758042991,
+      "sessions_count": 1,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "eef880bcdaf6e3d4f08682745cc50a9d",
+      "name": "Мой дом",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.000470321719654,
+      "sessions_count": 4,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "f1df884590c62b13b3a66536b96fa381",
+      "name": "Отмена выбора умного решения",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.03844880058163,
+      "sessions_count": 327,
+      "churn_rate": 0.0472222222222222,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "f2f9d242858a788cad0cd1e66264f25b",
+      "name": "Переход к городским сервисам",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.321817636672552,
+      "sessions_count": 2737,
+      "churn_rate": 0.0163513946777813,
+      "itemStyle": {
+        "color": "#6a5acd"
+      }
+    },
+    {
+      "id": "f38e3fd9c83a13ec4cc1da34306c886d",
+      "name": "Переход к определению даты начала и продолжительности голосования",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.014344812449416,
+      "sessions_count": 122,
+      "churn_rate": 0.0,
+      "itemStyle": {
+        "color": "#5470c6"
+      }
+    },
+    {
+      "id": "f41232f99b7092c102621d06b65d813d",
+      "name": "Переход в справку по функционалу доступов",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.000470321719654,
+      "sessions_count": 4,
+      "churn_rate": 0.0588235294117647,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    },
+    {
+      "id": "f45c33fe096f325179397402f5b9eb00",
+      "name": "Услуги",
+      "x": 0,
+      "y": 0,
+      "symbolSize": 20.885380637246737,
+      "sessions_count": 7530,
+      "churn_rate": 0.048016254945995,
+      "itemStyle": {
+        "color": "#8a2be2"
+      }
+    }
+  ],
+  "links": [
+    {
+      "source": "ac398d9f0ba05d231b9d183feb595b12",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "5d25ba67e2bc07adddc59f7a0e0baacd",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "0072f89b60d46ef6f2094949d8831f13",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "657a3d4b379d0ca181d51bff7a734dca",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "5281fb229131fa372bd15589fed81bc7",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "0ab7553a46130fe3b64fa66ae66e6ad1",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "c3617d19147db0f2c720ae56324619a3",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "f2f9d242858a788cad0cd1e66264f25b",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "b311fed0d9427b0a668db103a2e26ee5",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "bfce1d05b8edca517c869a73ba65f0fe",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "02b207cc24a78c1942161bafc72fe532",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "b0af5b926c05544c79e497f6b54fe815",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "307dcfd5d2529448f617e83d687ba89f",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "336eedff4bd7b6eaea9e6e67438a04e5",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "cc371a551e51bfd9ecf88fb117f19012",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "bc507eed0b3cb2a941ced1557f3cf52e",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "ed5c27f6d16e1b7e9bc08a5a7c6a5491",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "eef880bcdaf6e3d4f08682745cc50a9d",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "71d2b02e9dddd7579add5e6fbfdd9948",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "7d680c15d436d10d4ad4e5afa795efe1",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "3a5b6f51c14ce14db3f078c24bff99d7",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "c9fb0115087661f115b7732e0b6dcf38",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "18b0d595350748c3fd82491de6631219",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "38295c4cb820734391afed2c6eab0a22",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "33ce9776b7702c8b318d6efe53df4255",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "4c17a6be136d0c5a75fd2b1029f7715a",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "1677480ced72b9f85300ee9d405cbf6f",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "f1df884590c62b13b3a66536b96fa381",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "56b2a96f6086423351ef3ef7f6bad776",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "f45c33fe096f325179397402f5b9eb00",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "bfe7ca7487a32228ae4b59f937b2ab6a",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "5efa68fc2828c1a2d1eb5e274e46e762",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "875e50d28d26088a760866c1125ff124",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "ca169e01881cc0e99889fe10feef5412",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "eda36cdf54d5d75be6c4787845fa5af9",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "51a0cccf48b98172c3231c2fef7fae21",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "8b0ccaad7865fdd0bf88d15d2ec13a6e",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "0072f89b60d46ef6f2094949d8831f13",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "e9c334108c17d0d6014b73f196b775f4",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "e224343a16d132c18efced9f8fe4ff9a",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "137091633a6334ce94ced79cab6ec771",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "ae206a99f0c252db9cb7898945bcb944",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "810279bb201947c8bf03ef45799a9df0",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "75ae1ce75e93716c27e8581d81b818d4",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "1802f521f49cb888d4d375c1f77a5947",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "4b5c3e93b63c6dddb1391e5058a7d97e",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "925ab0b036d8297495c3a3e024bfcbcc",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "cc371a551e51bfd9ecf88fb117f19012",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "5d969627f432fb2b90f2b31cede6b75c",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "500eccd282f81b78cf2a947629353fb1",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "c8ca07e157eb4a2fd812cb31bd93d9c5",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "eb4d9bfbb3f89806b7527eeeeef77c9f",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "939f2eae14159a422d6b7e444da6c073",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "33102e94f3eaaddb4adfef79dba3406e",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "02b207cc24a78c1942161bafc72fe532",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "6c9428e1bc4d054722cca065faa2f4d7",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "5a49d9e3d6e322a53eb1db55d778b682",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "3fc108d096d970b55c4abc7ff5bddc10",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "c31baa1a58afa3f9870b02fc77a1ba45",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "657a3d4b379d0ca181d51bff7a734dca",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "edc00a9d527295cbbc4b1d11004c24f9",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "4b5c3e93b63c6dddb1391e5058a7d97e",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "73bf830e1586433463d3980cd6b6ab3f",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "18b0d595350748c3fd82491de6631219",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "0ab7553a46130fe3b64fa66ae66e6ad1",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "bdd3a6156ed90c6ee409bd5d7c12109e",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "9d2c3fb7b66bd8334d5fe6b5eafc0293",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "1b6eb33100056c59571a4ba1e4899851",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "c972daf1b8f2942278a3f21be6347380",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "500eccd282f81b78cf2a947629353fb1",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "b311fed0d9427b0a668db103a2e26ee5",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "cb6789ecb60aa92e36618544a05565ff",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "79c8df164467ccfdd2935ed3a0908bff",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "08c8cb5c424e980373da49f294448547",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "81fc1afde23687b0bf1f414f2281b130",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "bfce1d05b8edca517c869a73ba65f0fe",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "cba7d02b3d23d23bf50494bb00915a03",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "5d969627f432fb2b90f2b31cede6b75c",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "5281fb229131fa372bd15589fed81bc7",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "81fc1afde23687b0bf1f414f2281b130",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "b0af5b926c05544c79e497f6b54fe815",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "bc507eed0b3cb2a941ced1557f3cf52e",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "137091633a6334ce94ced79cab6ec771",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "c75aa3fa536a90aa1ca1ebcdc42b1da3",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "a5b05e649ffbafa180d0275d49428358",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "206871cf6dcf4010d81b449136952c89",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "aa0f283c09d7018791bda6561a5b4280",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "b76d318883357c73a6c50e24e8538bae",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "38295c4cb820734391afed2c6eab0a22",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "1b5d0ffe2f0f396585db620e98e433c7",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "307dcfd5d2529448f617e83d687ba89f",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "f45c33fe096f325179397402f5b9eb00",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "3a5b6f51c14ce14db3f078c24bff99d7",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "ac398d9f0ba05d231b9d183feb595b12",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "51a0cccf48b98172c3231c2fef7fae21",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "3adf668b7fc5065977e00d1b3bfbb31e",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "57ad6273012b6e957885db5347c61ce3",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "7191fb66d8d0febc6286fef10168d464",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "e9c334108c17d0d6014b73f196b775f4",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "1a5ba036bd58c66e7962635b41db729e",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "ed5c27f6d16e1b7e9bc08a5a7c6a5491",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "5a1dcce1d1cd9fa202f2db1394377d35",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "cac1e33e37247f9836c2a08c6cfc6a2c",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "5efa68fc2828c1a2d1eb5e274e46e762",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "c3617d19147db0f2c720ae56324619a3",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "4d46bbf8fa2da317c338b13d29036a91",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "91e6f6dfdf0013f411f185f5caff9276",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "f41232f99b7092c102621d06b65d813d",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "061da77ad7d449a342174810fbf72350",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "e224343a16d132c18efced9f8fe4ff9a",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "b566d2fae8ba724808c7e109eb8db193",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "0bcd42c9cba99c24662d526b8917a4b2",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "5d25ba67e2bc07adddc59f7a0e0baacd",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "bd9fe039ee5feddd26bae2cb7883ea56",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "a5b05e649ffbafa180d0275d49428358",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "a4c5506afae326d21a95f5447b2064d3",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "946f5be9030a27157b3d9085c4ed7418",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "b4eb2f5d1c5bbaa4d93793b0bea2182b",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "996468d1c41acb5b3e3269db1fe084b1",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "f1df884590c62b13b3a66536b96fa381",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "cba7d02b3d23d23bf50494bb00915a03",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "45a99c67b0b2347be90beb561a12691e",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "c972daf1b8f2942278a3f21be6347380",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "172ee4dedca1786e2e6d90ebd4812463",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "33102e94f3eaaddb4adfef79dba3406e",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "1448080cc62322c6c6a609d1f6f514a9",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "eb4d9bfbb3f89806b7527eeeeef77c9f",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "946f5be9030a27157b3d9085c4ed7418",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "16f068808fcfe46716f05762cf2260ca",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "c9fb0115087661f115b7732e0b6dcf38",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "f38e3fd9c83a13ec4cc1da34306c886d",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "6c9428e1bc4d054722cca065faa2f4d7",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "24c3c43335a78db3be70c90243f70c11",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "30f1948bc1a8ad1026a7538e357c2c99",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "5519a4874454437bc57292827d8d60bf",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "03fa5765e1bee3c6ba8b9a139635c46a",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "5824093ca7ab81ddadcbbead248b3e90",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "f2f9d242858a788cad0cd1e66264f25b",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "16f068808fcfe46716f05762cf2260ca",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "aa0f283c09d7018791bda6561a5b4280",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "939f2eae14159a422d6b7e444da6c073",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "56e2c906841b04ae432f9c4c91b8a20b",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "a8ead479dfa626bbe9a3295f74fb9636",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "1899c3dd97f8bfeaa614f527221db7ea",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "336eedff4bd7b6eaea9e6e67438a04e5",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "925ab0b036d8297495c3a3e024bfcbcc",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "56b2a96f6086423351ef3ef7f6bad776",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "73bf830e1586433463d3980cd6b6ab3f",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "20df56ae4f1871b56dc7098fc2285c66",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "ae0f2988953fab2dce43046fd17546b4",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "7d680c15d436d10d4ad4e5afa795efe1",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "061da77ad7d449a342174810fbf72350",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "308f4c947262ff784ce8424a0bfbbabc",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "14fe2f779c0b5dfdd3cbda1fe29d7588",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "d619612cd51d16e03997dd4a2a06b502",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "33ce9776b7702c8b318d6efe53df4255",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "65b6d70fc41016df3adb433265a02778",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "eef880bcdaf6e3d4f08682745cc50a9d",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "57fa3d494c82a1758bf4613a1f951e83",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "78ce5a2f8c6c4f7831d4535351676f46",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "9d2c3fb7b66bd8334d5fe6b5eafc0293",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "bdd3a6156ed90c6ee409bd5d7c12109e",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "d1938771e1ffd4add56fac6f43501e7c",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "a8e54aef94104fc6264227371ef0e4ff",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "461da4846caa27d3edd49b7f4d597395",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "65c812b1867171673ea71b8fd49576bb",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "7191fb66d8d0febc6286fef10168d464",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "11973d31f71775a30530ec9eef146134",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "810279bb201947c8bf03ef45799a9df0",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "f41232f99b7092c102621d06b65d813d",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "206871cf6dcf4010d81b449136952c89",
+      "target": "b90e1c2c1ca7a1194f3420043101dbd5",
+      "sessions_count": 3836,
+      "lineStyle": {
+        "width": 1.0300692352764806,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    },
+    {
+      "source": "7abfa6d37d4e9acc8ced91aa7cec02d6",
+      "target": "875e50d28d26088a760866c1125ff124",
+      "sessions_count": 510289,
+      "lineStyle": {
+        "width": 5.0,
+        "color": "#8a2be2",
+        "curveness": 0.1,
+        "opacity": 0.8
+      }
+    }
+  ]
+}
