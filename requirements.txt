@@ -8,3 +8,5 @@ matplotlib==3.9.4
 seaborn==0.13.2
 pytest>=7.0.0
 pytest-html>=3.2.0  # для HTML отчетов (опционально)
+uvicorn
+fastapi==0.125

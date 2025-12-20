@@ -22,7 +22,7 @@ const props = defineProps({
 })
 
 
-defineEmits(['dragend'])
+const $emit = defineEmits(['dragend', 'node-click'])
 
 // const getNodeLinks = (nodeId: string, links: GraphLink[]): GraphLink[] => {
 //   return links.filter((l: GraphLink) => l.source === nodeId || l.target === nodeId)
@@ -154,6 +154,7 @@ const handleResize = () => {
 const clickNodeHandler = (params: ECElementEvent) => {
   const node = params.data as GraphNode
   console.log(node)
+  $emit('node-click', node.id)
 }
 
 const zoomIn = () => {
