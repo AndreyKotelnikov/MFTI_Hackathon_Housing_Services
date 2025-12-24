@@ -1,0 +1,19 @@
+# ¿Õ¿À»« ›‘‘≈ “»¬ÕŒ—“»
+
+**request**: Lost=96.6%, Stay=95.4%
+**req_manage**: Lost=99.0%, Stay=99.7%
+**profile**: Lost=99.8%, Stay=99.8%
+**nav**: Lost=44.5%, Stay=17.8%
+**notif**: Lost=95.4%, Stay=90.3%
+**poll_oss**: Lost=98.8%, Stay=99.5%
+**rewards**: Lost=99.9%, Stay=99.9%
+**my_home**: Lost=97.5%, Stay=72.7%
+**partners**: Lost=99.8%, Stay=99.4%
+**transport**: Lost=99.2%, Stay=99.8%
+**ann_view**: Lost=96.7%, Stay=99.9%
+**smart**: Lost=99.9%, Stay=99.9%
+**support**: Lost=99.9%, Stay=97.6%
+**guest**: Lost=99.4%, Stay=97.8%
+**city_serv**: Lost=96.3%, Stay=95.0%
+**address**: Lost=100.0%, Stay=93.1%
+**ann_create**: Lost=80.0%, Stay=90.4%

@@ -1,0 +1,48 @@
+# АНАЛИЗ УСТРОЙСТВ И ТЕХНОЛОГИЙ
+
+## Тип устройства
+
+### Lost:
+- phone: 99.0%
+- tablet: 1.0%
+
+### Stay:
+- phone: 99.0%
+- tablet: 1.0%
+
+## Операционная система (по пользователям)
+
+### Lost:
+- iOS: 57.8%
+- Android: 42.2%
+
+### Stay:
+- Android: 56.8%
+- iOS: 43.2%
+
+## Топ-10 производителей
+
+### Lost:
+- Apple: 56.5%
+- Samsung: 14.1%
+- Redmi: 6.2%
+- Xiaomi: 4.7%
+- Huawei: 4.3%
+- POCO: 3.0%
+- Realme: 2.5%
+- Honor: 2.1%
+- Tecno: 1.3%
+- OnePlus: 1.1%
+
+### Stay:
+- Apple: 40.2%
+- Samsung: 18.7%
+- Redmi: 10.2%
+- Huawei: 6.1%
+- Xiaomi: 6.0%
+- POCO: 4.3%
+- Realme: 3.6%
+- Honor: 2.4%
+- Tecno: 1.9%
+- Infinix: 1.2%
+

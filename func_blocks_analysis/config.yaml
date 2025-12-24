@@ -1,0 +1,69 @@
+# Конфигурация проекта анализа данных МКД
+
+# Пути к данным
+data:
+  raw_path: "data/raw"
+  processed_path: "data/processed"
+  events_file: "events.csv"
+  users_file: "users.csv"
+  merged_file: "merged_data.csv"
+
+# Пути к отчетам
+reports:
+  json_path: "reports/json"
+  html_path: "reports/html"
+  figures_path: "reports/figures"
+
+# Параметры предобработки
+preprocessing:
+  remove_duplicates: true
+  handle_missing: true
+  datetime_column: "Дата и время события"
+  device_id_column: "Идентификатор устройства"
+  session_id_column: "Номер сессии в рамках устройства"
+
+# Параметры профилирования
+profiling:
+  generate_html: true
+  generate_json: true
+  minimal_mode: false
+
+# Параметры EDA
+eda:
+  min_events_per_user: 5
+  rfm_quantiles: [0.25, 0.5, 0.75]
+  top_features: 20
+
+# Параметры sequence mining
+sequence_mining:
+  min_support: 0.01
+  min_confidence: 0.5
+  max_ngram: 3
+  min_sequence_length: 2
+
+# Параметры кластеризации
+clustering:
+  n_clusters: 5
+  random_state: 42
+  scaler: "standard"
+
+# Параметры визуализации
+visualization:
+  color_scheme: "YlOrRd"
+  figure_width: 1200
+  figure_height: 800
+  interactive: true
+  save_html: true
+  save_png: false
+
+# Параметры логирования
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "analysis.log"
+
+# Параметры производительности
+performance:
+  use_multiprocessing: false
+  chunk_size: 100000
+  low_memory: true

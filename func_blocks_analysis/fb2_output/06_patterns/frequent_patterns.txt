@@ -1,0 +1,26 @@
+# АНАЛИЗ ПАТТЕРНОВ
+
+## Lost - Топ используемых блоков:
+- notif_count: 35770 сессий
+- nav_count: 32857 сессий
+- poll_oss_count: 30662 сессий
+- request_count: 21367 сессий
+- profile_count: 17585 сессий
+- req_manage_count: 16389 сессий
+- transport_count: 8031 сессий
+- partners_count: 4805 сессий
+- rewards_count: 4371 сессий
+- ann_view_count: 2464 сессий
+
+## Stay - Топ используемых блоков:
+- req_manage_count: 156437 сессий
+- request_count: 137611 сессий
+- profile_count: 91458 сессий
+- nav_count: 88245 сессий
+- notif_count: 74703 сессий
+- poll_oss_count: 69295 сессий
+- partners_count: 14563 сессий
+- transport_count: 13110 сессий
+- rewards_count: 12088 сессий
+- ann_view_count: 6729 сессий
+
